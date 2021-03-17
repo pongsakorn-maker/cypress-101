@@ -1,0 +1,24 @@
+{
+  "name": "cypress-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pongsakorn-maker/cypress-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pongsakorn-maker/cypress-101/issues"
+  },
+  "homepage": "https://github.com/pongsakorn-maker/cypress-101#readme",
+  "devDependencies": {
+    "cypress": "^6.7.1"
+  }
+}
